@@ -1,0 +1,12 @@
+Rojo titulos: #AB2222
+Azul titulos: #22A6AB
+Verde titulos: #50AC22
+Rosa gradient: #F7CAC9
+
+Template:
+© 2014 CSS3_flowers. All Rights Reserved. http://www.css3templates.co.uk design from css3templates.co.uk
+
+background: #3E9C6A;
+  background: -moz-linear-gradient(#ABDFC3, #3E9C6A);
+  background: -o-linear-gradient(#ABDFC3, #3E9C6A);
+  background: -webkit-linear-gradient(#ABDFC3, #3E9C6A);
